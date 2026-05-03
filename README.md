@@ -76,29 +76,89 @@ Vietnamese automatic speech recognition using CTC-based deep learning models.
 
 <div align="center">
 
-<img width="98%" src="https://streak-stats.demolab.com?user=franceto&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franceto&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=franceto&theme=tokyonight&utcOffset=7" />
 
 </div>
 
+### Popular repositories
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/franceto/SkinDisease_DenseNet121"><b>SkinDisease_DenseNet121</b></a>
+
+DenseNet121 skin disease classification using PyTorch and Streamlit demo.
+
+<img src="https://img.shields.io/github/stars/franceto/SkinDisease_DenseNet121?style=flat&label=Stars" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/franceto/SkinDisease_EfficientNet_B5"><b>SkinDisease_EfficientNet_B5</b></a>
+
+EfficientNet-B5 skin disease classification using PyTorch and Streamlit demo.
+
+<img src="https://img.shields.io/github/stars/franceto/SkinDisease_EfficientNet_B5?style=flat&label=Stars" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/franceto/Yolo26-Vietnam_Traffic-Sign"><b>Yolo26-Vietnam_Traffic-Sign</b></a>
+
+Vietnam traffic sign detection using YOLO and Streamlit demo.
+
+<img src="https://img.shields.io/github/stars/franceto/Yolo26-Vietnam_Traffic-Sign?style=flat&label=Stars" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/franceto/EcoScan_Waste"><b>EcoScan_Waste</b></a>
+
+AI waste classifier for organic and recyclable detection.
+
+<img src="https://img.shields.io/github/stars/franceto/EcoScan_Waste?style=flat&label=Stars" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/franceto/Dataset_License-plate-number"><b>Dataset_License-plate-number</b></a>
+
+Vietnamese license plate dataset in YOLO format for object detection.
+
+<img src="https://img.shields.io/github/stars/franceto/Dataset_License-plate-number?style=flat&label=Stars" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/franceto/RAG-Traffic-Law"><b>RAG-Traffic-Law</b></a>
+
+Legal-tech RAG chatbot for Vietnamese traffic penalty Q&A.
+
+<img src="https://img.shields.io/github/stars/franceto/RAG-Traffic-Law?style=flat&label=Stars" />
+
+</td>
+</tr>
+</table>
+
+### 45 contributions in the last year
+
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franceto&theme=tokyonight" />
+<img width="98%" src="https://ghchart.rshah.org/franceto" />
 
 </div>
 
+### Contribution Activity
+
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franceto&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franceto&theme=tokyonight" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=franceto&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 

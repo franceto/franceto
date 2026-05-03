@@ -12,11 +12,12 @@
 
 I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **NLP**, and **Retrieval-Augmented Generation**.
 
-- 🔭 Currently working on AI research projects and practical machine learning applications  
-- 🧠 Interested in Vision Transformers, Ensemble Learning, Fuzzy Integral, RAG, and LLMs  
-- 🛠️ Building projects with Python, PyTorch, TensorFlow, OpenCV, Hugging Face, and Streamlit  
-- 📚 Goal: create reproducible AI projects with clear experiments and useful demos  
+- End-to-End Data Pipeline Mastery: Proficient in the complete data lifecycle, including automated collection, exploratory data analysis (EDA), and high-precision labeling for specialized datasets.
+- Model Engineering & Optimization: Expert in developing robust architectures and fine-tuning hyperparameters to maximize performance across diverse tasks.
+  
+- Imbalanced Data Expertise: Skilled in mitigating data distribution challenges through advanced preprocessing, strategic re-sampling, and data augmentation techniques.
 
+- Advanced Research Interests: Deeply engaged in the study of CNN, Vision Transformers (ViT), Ensemble Learning, Fuzzy Integrals, and the implementation of RAG frameworks using Large Language Models (LLMs).
 ---
 
 ## 🚀 Tech Stack

@@ -76,14 +76,21 @@ Vietnamese automatic speech recognition using CTC-based deep learning models.
 
 <div align="center">
 
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=franceto&show_icons=true&theme=tokyonight&hide_border=true&hide=commits,prs,issues,contribs&hide_rank=true&custom_title=Total%20Stars%20Earned" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franceto&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=franceto&theme=tokyonight&utcOffset=7" />
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=franceto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franceto&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franceto&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franceto&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franceto&theme=tokyonight" />
 
 </div>
 

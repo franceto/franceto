@@ -23,7 +23,17 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,git,github,vscode,linux,html,css,js,fastapi,flask" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 </div>
 
@@ -36,6 +46,7 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
 <td width="50%">
 
 ### 🚦 RAG Traffic Law
+
 Vietnamese traffic law question-answering system using Retrieval-Augmented Generation.
 
 **Tech:** Python, RAG, Vector Database, LLM, Web Demo
@@ -44,6 +55,7 @@ Vietnamese traffic law question-answering system using Retrieval-Augmented Gener
 <td width="50%">
 
 ### 🛰️ AI Ensemble Research
+
 Multi-model Vision Transformer ensemble experiments with fuzzy integral methods.
 
 **Tech:** PyTorch, timm, ViT, Choquet, Sugeno
@@ -53,18 +65,20 @@ Multi-model Vision Transformer ensemble experiments with fuzzy integral methods.
 <tr>
 <td width="50%">
 
-### 🦷 Dental Disease Classification
-Medical image classification project using deep learning and computer vision.
+### 🎙️ Vietnamese ASR
 
-**Tech:** CNN, ViT, PyTorch, Medical Imaging
+Vietnamese automatic speech recognition using CTC-based deep learning models.
+
+**Tech:** PyTorch, BiLSTM, CTC, DeepSpeech2
 
 </td>
 <td width="50%">
 
-### 🎙️ Vietnamese ASR
-Vietnamese automatic speech recognition using CTC-based deep learning models.
+### ♻️ EcoScan_Waste
 
-**Tech:** PyTorch, BiLSTM, CTC, DeepSpeech2
+AI waste classification project with a simple web demo.
+
+**Tech:** Python, CNN, Web Demo
 
 </td>
 </tr>
@@ -164,6 +178,6 @@ Legal-tech RAG chatbot for Vietnamese traffic penalty Q&A.
 
 ⭐ **Thanks for visiting my profile!** ⭐
 
-Made with ❤️ by **Franceto (ANH PHAP TO)** 
+Made with ❤️ by **Franceto (ANH PHAP TO)**
 
 </div>

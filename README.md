@@ -146,22 +146,6 @@ Legal-tech RAG chatbot for Vietnamese traffic penalty Q&A.
 </tr>
 </table>
 
-### 45 contributions in the last year
-
-<div align="center">
-
-<img width="98%" src="https://ghchart.rshah.org/franceto" />
-
-</div>
-
-### Contribution Activity
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=franceto&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
 ---
 
 ## 🌐 Connect with me

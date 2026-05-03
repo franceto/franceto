@@ -76,6 +76,14 @@ Vietnamese automatic speech recognition using CTC-based deep learning models.
 
 <div align="center">
 
+<img width="98%" src="https://streak-stats.demolab.com?user=franceto&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franceto&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=franceto&theme=tokyonight&utcOffset=7" />
 
@@ -91,12 +99,6 @@ Vietnamese automatic speech recognition using CTC-based deep learning models.
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franceto&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franceto&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=franceto&theme=tokyonight&hide_border=true" />
 
 </div>
 

@@ -164,6 +164,6 @@ Legal-tech RAG chatbot for Vietnamese traffic penalty Q&A.
 
 ⭐ **Thanks for visiting my profile!** ⭐
 
-Made with ❤️ by **Franceto (ANH PHAP TO)**
+Made with ❤️ by **Franceto (ANH PHAP TO)** 
 
 </div>

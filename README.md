@@ -42,6 +42,17 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
 ## 🚀 Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI-0F172A?style=for-the-badge&labelColor=111827&color=2563EB" />
+  <img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&labelColor=111827&color=0EA5E9" />
+  <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&labelColor=111827&color=7C3AED" />
+  <img src="https://img.shields.io/badge/CV-0F172A?style=for-the-badge&labelColor=111827&color=22C55E" />
+  <img src="https://img.shields.io/badge/ML-0F172A?style=for-the-badge&labelColor=111827&color=FACC15" />
+  <img src="https://img.shields.io/badge/DL-0F172A?style=for-the-badge&labelColor=111827&color=F97316" />
+  <img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&labelColor=111827&color=EF4444" />
+</p>
+
+<br/>
+<p align="center">
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />&nbsp;&nbsp;&nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />&nbsp;&nbsp;&nbsp;
@@ -56,18 +67,6 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;&nbsp;
   <img height="46" src="https://cdn.simpleicons.org/overleaf/47A141" />&nbsp;&nbsp;&nbsp;
   <img height="46" src="https://cdn.simpleicons.org/streamlit/FF4B4B" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-0F172A?style=for-the-badge&labelColor=111827&color=2563EB" />
-  <img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&labelColor=111827&color=0EA5E9" />
-  <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&labelColor=111827&color=7C3AED" />
-  <img src="https://img.shields.io/badge/CV-0F172A?style=for-the-badge&labelColor=111827&color=22C55E" />
-  <img src="https://img.shields.io/badge/ML-0F172A?style=for-the-badge&labelColor=111827&color=FACC15" />
-  <img src="https://img.shields.io/badge/DL-0F172A?style=for-the-badge&labelColor=111827&color=F97316" />
-  <img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&labelColor=111827&color=EF4444" />
 </p>
 
 <br/>

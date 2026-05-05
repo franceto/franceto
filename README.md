@@ -101,13 +101,21 @@ AI waste classification project with a simple web demo.
 
 ## 🌐 Connect with me
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/franceto">
+    <img src="https://img.shields.io/badge/GitHub-franceto-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/franceto">
+    <img src="https://img.shields.io/badge/Kaggle-franceto-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:phapdaika59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-phapdaika59%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://github.com/franceto">
-  <img src="https://img.shields.io/badge/GitHub-franceto-181717?style=for-the-badge&logo=github" />
-</a>
+<br/>
 
-</div>
+<hr/>
 
 ---
 

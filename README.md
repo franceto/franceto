@@ -83,15 +83,7 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
 
 Vietnamese traffic law question-answering system using Retrieval-Augmented Generation.
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Tech-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Tech-RAG-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Tech-Vector%20Database-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Tech-LLM-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Tech-Web%20Demo-22C55E?style=flat-square" />
-
-<br/><br/>
+<br/>
 
 **Tech:** Python, RAG, Vector Database, LLM, Web Demo
 
@@ -102,15 +94,7 @@ Vietnamese traffic law question-answering system using Retrieval-Augmented Gener
 
 Multi-model Vision Transformer ensemble experiments with fuzzy integral methods.
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Tech-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Tech-timm-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Tech-ViT-9333EA?style=flat-square" />
-<img src="https://img.shields.io/badge/Tech-Choquet-14B8A6?style=flat-square" />
-<img src="https://img.shields.io/badge/Tech-Sugeno-F59E0B?style=flat-square" />
-
-<br/><br/>
+<br/>
 
 **Tech:** PyTorch, timm, ViT, Choquet, Sugeno
 
@@ -123,14 +107,7 @@ Multi-model Vision Transformer ensemble experiments with fuzzy integral methods.
 
 Vietnamese automatic speech recognition using CTC-based deep learning models.
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Tech-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Tech-BiLSTM-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Tech-CTC-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/Tech-DeepSpeech2-8B5CF6?style=flat-square" />
-
-<br/><br/>
+<br/>
 
 **Tech:** PyTorch, BiLSTM, CTC, DeepSpeech2
 
@@ -141,13 +118,7 @@ Vietnamese automatic speech recognition using CTC-based deep learning models.
 
 AI waste classification project with a simple web demo.
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Tech-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Tech-CNN-F97316?style=flat-square" />
-<img src="https://img.shields.io/badge/Tech-Web%20Demo-22C55E?style=flat-square" />
-
-<br/><br/>
+<br/>
 
 **Tech:** Python, CNN, Web Demo
 

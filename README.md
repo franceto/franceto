@@ -61,12 +61,13 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/AI-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&logo=googlegemini&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/LLM-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/CV-0F172A?style=for-the-badge&logo=opencv&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/ML-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/DL-0F172A?style=for-the-badge&logo=pytorch&logoColor=F97316" />
+  <img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
 </p>
 
 <br/>

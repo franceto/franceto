@@ -94,7 +94,7 @@ AI waste classification project with a simple web demo.
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franceto&theme=tokyonight&v=20260505" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=franceto&theme=tokyonight&utcOffset=7&v=20260505" />
 
-</div>
+</div> 
 
 ### Popular repositories
 

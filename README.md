@@ -19,8 +19,8 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
 
 - Advanced Research Interests: Deeply engaged in the study of CNN, Vision Transformers (ViT), Ensemble Learning, Fuzzy Integrals, and the implementation of RAG frameworks using Large Language Models (LLMs).
 <br/>
-
 <hr/>
+
 ## 🚀 Tech Stack
 
 <p align="center">

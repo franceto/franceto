@@ -38,7 +38,7 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
   <img height="42" src="https://cdn.simpleicons.org/overleaf/47A141" />
   <img height="42" src="https://cdn.simpleicons.org/streamlit/FF4B4B" />
 </p>
-
+---
 ## 📌 Featured Projects
 
 <table>

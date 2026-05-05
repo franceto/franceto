@@ -73,7 +73,7 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=footer" />
 
-## 📌 Featured Projects
+## Featured Projects
 
 <table>
 <tr>

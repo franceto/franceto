@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:1d4ed8,100:7c3aed&text=Hi,%20I'm%20Franceto&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20RAG&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:1d4ed8,100:7c3aed&text=Hi,%20I'm%20Franceto&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Never%20Stop%20Learning%20%7C%20Keep%20Building%20%7C%20Stay%20Curious&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br/>
 

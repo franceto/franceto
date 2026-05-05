@@ -23,22 +23,24 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
-  <img height="42" src="https://cdn.simpleicons.org/kaggle/20BEFF" />
-  <img height="42" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
-  <img height="42" src="https://cdn.simpleicons.org/roboflow/6706CE" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-  <img height="42" src="https://cdn.simpleicons.org/overleaf/47A141" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/kaggle/20BEFF" />&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/huggingface/FFD21E" />&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/roboflow/6706CE" />&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/overleaf/47A141" />&nbsp;&nbsp;&nbsp;
   <img height="42" src="https://cdn.simpleicons.org/streamlit/FF4B4B" />
 </p>
----
+
+<br/>
+
+<hr/>
 
 ## 📌 Featured Projects
 

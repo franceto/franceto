@@ -16,7 +16,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=footer" />
 
-## 👋 About me
+## About me
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=footer" />
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-0F172A?style=for-the-badge&labelColor=111827&color=2563EB" />
@@ -130,7 +130,7 @@ This project sorts organic/recyclable waste using the Resnet-50 model, with a si
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=footer" />
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -151,7 +151,7 @@ This project sorts organic/recyclable waste using the Resnet-50 model, with a si
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=footer" />
 
-## 🌐 Connect with me
+## Connect with me
 
 <p align="center">
   <a href="mailto:phapdaika59@gmail.com">

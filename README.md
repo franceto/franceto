@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=AI%2FML%2FDL+Research+Learner;Computer+Vision+%26+Medical+Imaging;RAG+%26+Vietnamese+NLP;Building+clean+and+useful+AI+projects)](https://git.io/typing-svg)
 
-<br/>
+<br/> 
 
 <img src="https://komarev.com/ghpvc/?username=franceto&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
 

@@ -116,7 +116,7 @@ Vietnamese automatic speech recognition using CTC-based deep learning models.
 
 <h3>♻️ EcoScan_Waste</h3>
 
-AI waste classification project with a simple web demo.
+This project sorts organic/recyclable waste using the Resnet-50 model, with a simple web demo.
 
 <br/>
 

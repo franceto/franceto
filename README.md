@@ -159,12 +159,4 @@ This project sorts organic/recyclable waste using the Resnet-50 model, with a si
   </a>
 </p>
 
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=%E2%AD%90+Thanks+for+visiting+my+profile!+%E2%AD%90;Made+with+%E2%9D%A4%EF%B8%8F+by+Franceto+(ANH+PHAP+TO))](https://git.io/typing-svg)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7c3aed,50:2563eb,100:0f172a&section=footer" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Made+by+Franceto+(ANH+PHAP+TO))](https://git.io/typing-svg)

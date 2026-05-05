@@ -159,4 +159,8 @@ This project sorts organic/recyclable waste using the Resnet-50 model, with a si
   </a>
 </p>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Made+by+Franceto+(ANH+PHAP+TO))](https://git.io/typing-svg)
+
+</div>

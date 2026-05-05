@@ -21,7 +21,6 @@ I'm **Franceto (ANH PHAP TO)**, an IT student interested in **Artificial Intelli
 <br/>
 
 <hr/>
-
 ## 🚀 Tech Stack
 
 <p align="center">

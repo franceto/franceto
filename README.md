@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=AI%2FML%2FDL+Research+Learner;Computer+Vision+%26+Medical+Imaging;RAG+%26+Vietnamese+NLP;Building+clean+and+useful+AI+projects)](https://git.io/typing-svg)
 
-</div>
+</div> 
 
 ---
 
